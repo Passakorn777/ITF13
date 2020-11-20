@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Comment Form</title>
+    <title>Comment</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -33,8 +33,8 @@
 
         <div class="form-group">
           <div class="col-md-12 mt-3">
-            <input type="submit" name="addbtn" id="idaddbtn" class="btn btn-success" value="เพิ่ม">
-            <a href="index.php" class="btn btn-danger">ยกเลิก</a>
+            <input type="submit" name="addbtn" id="idaddbtn" class="btn btn-success" value="Insert">
+            <a href="index.php" class="btn btn-danger">Cancel</a>
           </div>
         </div>
 
