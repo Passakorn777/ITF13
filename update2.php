@@ -23,7 +23,7 @@
         die('Failed to connect to MySQL: '.mysqli_connect_error());
     }
 
-    $edit_id = $_GET['edit_id'];
+    $id = $_GET['edit_id'];
     $name = $_POST['name'];
     $comment = $_POST['comment'];
 
